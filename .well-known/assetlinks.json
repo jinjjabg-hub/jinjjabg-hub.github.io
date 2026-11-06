@@ -22,5 +22,17 @@
         "69:48:37:E0:F4:66:02:76:35:3B:D1:9D:88:E1:78:43:5E:69:90:F4:64:39:14:BF:51:A5:87:5A:01:BC:E5:74"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tm.multitimer",
+      "sha256_cert_fingerprints": [
+        "E5:D0:17:1E:CC:55:31:B8:04:C1:65:A8:EC:2D:0F:EC:23:AA:7C:B9:F7:F8:C7:48:ED:8B:C5:1B:43:51:57:A7"
+      ]
+    }
   }
 ]
